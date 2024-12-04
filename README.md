@@ -5,8 +5,8 @@
 ## Project Overview
 This project leverages the YOLOv5 architecture for detecting and classifying moon craters. The model is trained on a custom dataset to achieve high accuracy in identifying craters, which has applications in planetary science and autonomous space exploration.
 
-##Architecture
-YOLOv5 (You Only Look Once, version 5) is a state-of-the-art object detection model designed for real-time applications. It processes images in a single pass, leveraging a CSPDarknet53 backbone for efficient feature extraction and a Path Aggregation Network (PANet) for multi-scale feature fusion. The model predicts bounding boxes, object classes, and confidence scores using three detection layers, ensuring accuracy across objects of varying sizes. YOLOv5 is optimized for speed and performance with advanced techniques like mosaic augmentation, anchor auto-learning, and batch normalization, making it lightweight and ideal for applications ranging from autonomous vehicles to edge devices.
+#Architecture
+YOLOv5 (You Only Look Once, version 5) is a state-of-the-art object detection model for real-time applications. It processes images in a single pass, leveraging a CSPDarknet53 backbone for efficient feature extraction and a Path Aggregation Network (PANet) for multi-scale feature fusion. The model predicts bounding boxes, object classes, and confidence scores using three detection layers, ensuring accuracy across objects of varying sizes. YOLOv5 is optimized for speed and performance with advanced techniques like mosaic augmentation, anchor auto-learning, and batch normalization, making it lightweight and ideal for applications ranging from autonomous vehicles to edge devices.
 
 ## Key Features
 - **YOLOv5 Model**: Utilizes a state-of-the-art object detection architecture known for its speed and accuracy.
@@ -63,7 +63,7 @@ Results
 
 This is the output.
 
-    ![Screenshot (254)](https://github.com/user-attachments/assets/d1053af9-03ae-4cf7-927a-008a9b52ab7e)
+   ![Screenshot (254)](https://github.com/user-attachments/assets/d1053af9-03ae-4cf7-927a-008a9b52ab7e)
 
 
 Future Work
